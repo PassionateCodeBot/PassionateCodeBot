@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PassionateCodeBot
 - 👀 I’m passionate about coding and new challenges.
-- 🌱 I’m currently learning Cloud computing, Pyhton, Blazor.
-- 💞️ I’m looking to collaborate on cloud computing and web development
+- 🌱 I’m currently learning React, JavaScript, Node.JS, AI, Machine Learning, Cloud computing, Python, Blazor.
+- 💞️ I’m looking to collaborate on AI/ML, web development and cloud computing.
 - 📫 How to reach me ... call me :-)
 
 <!---
