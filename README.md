@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PassionateCodeBot
+- 👋 Hi, I’m Manoj Kumar
 - 👀 I’m passionate about coding and new challenges.
-- 🌱 I’m currently learning React, JavaScript, Node.JS, AI, Machine Learning, Cloud computing, Python, Blazor.
-- 💞️ I’m looking to collaborate on AI/ML, web development and cloud computing.
+- 💞️ I’m looking to collaborate on AI/ML, web development, cyber security and cloud computing.
 - 📫 How to reach me ... call me :-)
 
 <!---
